@@ -2,10 +2,11 @@
 
 > Every Valve Game and Their mods
 
-## Index
+## Contents
 
+* [VALVe Games](#VALVe-Games)
 
-### VALVe GAMES
+## VALVe Games
 
 > Games made by valve (OR) were previously mods but were bought out buy Valve
 
@@ -78,7 +79,7 @@
 * [APERTURE DESK JOB](https://store.steampowered.com/app/1902490/Aperture_Desk_Job/) \- Made for Steam Deck But Can Be Played On PC (Controller Only)
 
 
-### NON VALVe GAMES
+## Non VALVe Games
 > Notable Games 
 
 * [GUNMAN CHRONICLES](https://www.moddb.com/games/gunman-chronicles/downloads/gunman-chronicles-steam-version) \- Standalone Game Made Into a Mod 
