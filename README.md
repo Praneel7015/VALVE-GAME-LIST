@@ -148,19 +148,27 @@
 
 > Portal 1 mods
 
+* [Rexaura](https://store.steampowered.com/app/317790/Rexaura/)
 
 
 ## Portal 2 Mods 
 
 > Portal 2 Mods
 
+* [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal_Stories_Mel/)
+
+* [Portal Reloaded](https://store.steampowered.com/app/1255980/Portal_Reloaded/)
+
+* [Portal Stories: VR](https://store.steampowered.com/app/446750/Portal_Stories_VR/)
+
 * [Portal 2 Sixense Perceptual](https://store.steampowered.com/app/247120/Portal_2_Sixense_Perceptual_Pack/)
 
 
 ## Half-Life: Alyx Mods
 
->HL VR Game Mods 
+>HL Alyx Mods 
 
+* [Half-Life Levitation]()
 
 
 ## Black Mesa Mods
