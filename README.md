@@ -193,7 +193,7 @@
 
 * [Aperture Tag: The Paint Testing Initiative](https://store.steampowered.com/app/280740/Aperture_Tag_The_Paint_Gun_Testing_Initiative/) \- Paid Mod and Portal 2 
 
-*[Thinking With Time Machine](https://store.steampowered.com/app/286080/Thinking_with_Time_Machine/)
+* [Thinking With Time Machine](https://store.steampowered.com/app/286080/Thinking_with_Time_Machine/)
 
 ## Half-Life: Alyx Mods
 
