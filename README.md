@@ -10,7 +10,7 @@
 
 * [Half-Life Mods](#Half-Life-Mods)
 
-* [Half-Life:Source Moda](#Half-Life:Source-Mods)
+* [Half-Life:Source Mods](#Half-Life:Source-Mods)
 
 * [Half-Life 2 Mods](#Half-Life-2-Mods)
 
