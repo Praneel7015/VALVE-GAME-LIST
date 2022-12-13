@@ -14,8 +14,6 @@
 
 * [Half-Life 2 Mods](#Half-Life-2-Mods)
 
-* [Half-Life 2: Episode 2 Mods](#Half-Life-2Ep-2-Mods)
-
 * [Portal Mods](#Portal-Mods) 
 
 * [Portal 2 Mods](#Portal-2-Mods)
@@ -104,7 +102,8 @@
 
 > Notable Games 
 
-* [GUNMAN CHRONICLES](https://www.moddb.com/games/gunman-chronicles/downloads/gunman-chronicles-steam-version) \- Standalone Game Made Into a Mod 
+* [GUNMAN CHRONICLES](https://www.moddb.com/games/gunman-chronicles/downloads/gunman-chronicles-steam-version) \- Mod Made Into A Standalone Game Made Into 
+ Mod 
 
 * [CODENAME GORDON](https://steamcommunity.com/app/92) - Type "steam://install/92" in your browser it will download (April fools joke on Steam before half life 2 released)
 
@@ -125,7 +124,7 @@
 
 > Mods For The Original Half-Life Game
 
-* [Half-Life C.A.G.E.D]
+* [Half-Life: C.A.G.E.D](https://store.steampowered.com/app/679990/HalfLife_Caged/)
 
 
 ## Half-Life: Source Mods
@@ -138,13 +137,7 @@
 
 > Mods For The Second Half-Life Game
 
-
-
-## Half-Life 2:Ep 2 Mods
-
-> Mods For the Second Episode of the Second Half-Life Game
-
-
+*[Half-Life 2: Update](https://store.steampowered.com/app/290930/HalfLife_2_Update/)
 
 ## Portal Mods 
 
@@ -156,6 +149,7 @@
 
 > Portal 2 Mods
 
+* [](https://store.steampowered.com/app/247120/Portal_2_Sixense_Perceptual_Pack/)
 
 
 ## Half-Life: Alyx Mods
