@@ -10,7 +10,7 @@
 
 * [Half-Life Mods](#Half-Life-Mods)
 
-* [Half-Life:Source Mods](#Half-Life:Source-Mods)
+* [Half-Life:Source Mods](#Half-Life-Source-Mods)
 
 * [Half-Life 2 Mods](#Half-Life-2-Mods)
 
@@ -20,7 +20,7 @@
 
 * [Portal 2 Mods](#Portal-2-Mods)
 
-* [Half-Life: Alyx Mods](#Half-Life:-Alyx-Mods)
+* [Half-Life: Alyx Mods](#Half-Life-Alyx-Mods)
  
 * [Black Mesa Mods](#Black-Mesa-Mods)
 
