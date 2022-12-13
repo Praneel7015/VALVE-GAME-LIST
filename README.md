@@ -206,7 +206,9 @@
 
 > Mods for the Black Mesa 
 
+* [Black Mesa: Blue Shift]()
 
+ 
 ## Entropy Zero 2 Mods
 
 > Mods of the Mod Entropy Zero 2 
