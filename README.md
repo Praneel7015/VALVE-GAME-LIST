@@ -136,6 +136,8 @@
 
 * [Half-Life: Echoes](https://www.moddb.com/mods/half-life-echoes)
 
+* [Cry Of Fear](https://store.steampowered.com/app/223710/Cry_of_Fear/)
+
 * [Half-Life: C.A.G.E.D](https://store.steampowered.com/app/679990/HalfLife_Caged/)
 
 * [Half-Life Decay Solo Mission Demo](https://store.steampowered.com/app/1874090/HalfLife_Decay_Solo_Mission/) 
@@ -167,8 +169,6 @@
 * [Half-Life 2: Year Long Alarm](https://store.steampowered.com/app/747250/HalfLife_2_Year_Long_Alarm/)
 
 * [Amalgam](https://store.steampowered.com/app/1389950/Amalgam/)
-
-* [Cry Of Fear](https://store.steampowered.com/app/223710/Cry_of_Fear/)
 
 * [Snow Drop Escape](https://store.steampowered.com/app/1117390/Snowdrop_Escape/)
 
