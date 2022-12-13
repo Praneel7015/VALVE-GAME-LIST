@@ -14,13 +14,13 @@
 
 * [Half-Life 2 Mods](#Half-Life-2-Mods)
 
-* [Half-Life 2: Episode 2 Mods](#Half-Life-2:-Ep-2-Mods)
+* [Half-Life 2: Episode 2 Mods](#Half-Life-2Ep-2-Mods)
 
 * [Portal Mods](#Portal-Mods) 
 
 * [Portal 2 Mods](#Portal-2-Mods)
 
-* [Half-Life: Alyx Mods](#Half-Life:-Alyx-Mods)
+* [Half-Life: Alyx Mods](#Half-Life-Alyx-Mods)
  
 * [Black Mesa Mods](#Black-Mesa-Mods)
 
