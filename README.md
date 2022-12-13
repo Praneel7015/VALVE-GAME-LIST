@@ -22,7 +22,7 @@
  
 * [Black Mesa Mods](#Black-Mesa-Mods)
 
-* [Entropy Zero 2 Mods](#Entropy-Zero-2-Mods)
+* [Entropy: Zero 2 Mods](#Entropy-Zero-2-Mods)
 
 
 ## VALVe Games
