@@ -99,6 +99,8 @@
 
 * [APERTURE DESK JOB](https://store.steampowered.com/app/1902490/Aperture_Desk_Job/) \- Made for Steam Deck But Can Be Played On PC (Controller Only)
 
+* [Half-Life 3](https://youtu.be/xvFZjo5PgG0)
+
 
 ## Non VALVe Games
 
