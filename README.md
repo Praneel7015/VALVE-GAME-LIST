@@ -137,7 +137,12 @@
 
 > Mods For The Second Half-Life Game
 
-*[Half-Life 2: Update](https://store.steampowered.com/app/290930/HalfLife_2_Update/)
+* [Half-Life 2: Update](https://store.steampowered.com/app/290930/HalfLife_2_Update/)
+
+* [Entropy: Zero](https://store.steampowered.com/app/714070/Entropy__Zero/)
+
+* [Entropy: Zero 2](https://store.steampowered.com/app/1583720/Entropy__Zero_2/)
+
 
 ## Portal Mods 
 
@@ -149,7 +154,7 @@
 
 > Portal 2 Mods
 
-* [](https://store.steampowered.com/app/247120/Portal_2_Sixense_Perceptual_Pack/)
+* [Portal 2 Sixense Perceptual](https://store.steampowered.com/app/247120/Portal_2_Sixense_Perceptual_Pack/)
 
 
 ## Half-Life: Alyx Mods
