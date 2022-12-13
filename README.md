@@ -109,9 +109,13 @@
 * [GUNMAN CHRONICLES](https://www.moddb.com/games/gunman-chronicles/downloads/gunman-chronicles-steam-version) \- Mod Made Into A Standalone Game Made Into 
  Mod 
 
+* [Sven Coop](https://store.steampowered.com/app/225840/Sven_Coop/) \- Doesn't Require Half-Life To Play
+
 * [CODENAME GORDON](https://steamcommunity.com/app/92) - Type "steam://install/92" in your browser it will download (April fools joke on Steam before half life 2 released)
 
 * [GARRY'S MOD aka GMOD](https://store.steampowered.com/app/4000/Garrys_Mod/)
+
+* [Prospekt](https://store.steampowered.com/app/399120/Prospekt/) \- Doesn't Require HL2 But Paid
 
 * [BLACK MESA](https://store.steampowered.com/app/362890/Black_Mesa/) \- Remake of The Original Half-Life In The More Updated Source Engine 
 
@@ -128,8 +132,15 @@
 
 > Mods For The Original Half-Life Game
 
+* [Half-Life: Echoes](https://www.moddb.com/mods/half-life-echoes)
+
 * [Half-Life: C.A.G.E.D](https://store.steampowered.com/app/679990/HalfLife_Caged/)
 
+* [Half-Life Decay Solo Mission Demo](https://store.steampowered.com/app/1874090/HalfLife_Decay_Solo_Mission/) 
+
+* [Half-Life Restored](https://store.steampowered.com/app/1283930/HalfLife_Restored/)
+
+* [Half-Life VR Mod](https://store.steampowered.com/app/1908720/HalfLife_VR_Mod/)
 
 ## Half-Life: Source Mods
 
@@ -147,6 +158,17 @@
 
 * [Entropy: Zero 2](https://store.steampowered.com/app/1583720/Entropy__Zero_2/)
 
+* [Half-Life 2: VR Mod](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/) 
+
+* [Half-Life 2: DownFall](https://store.steampowered.com/app/587650/HalfLife_2_DownFall/) 
+
+* [Half-Life 2: Year Long Alarm](https://store.steampowered.com/app/747250/HalfLife_2_Year_Long_Alarm/)
+
+* [Amalgam](https://store.steampowered.com/app/1389950/Amalgam/)
+
+* [Cry Of Fear](https://store.steampowered.com/app/223710/Cry_of_Fear/)
+
+* [Snow Drop Escape](https://store.steampowered.com/app/1117390/Snowdrop_Escape/)
 
 ## Portal Mods 
 
@@ -167,6 +189,9 @@
 
 * [Portal 2 Sixense Perceptual](https://store.steampowered.com/app/247120/Portal_2_Sixense_Perceptual_Pack/)
 
+* [Aperture Tag: The Paint Testing Initiative](https://store.steampowered.com/app/280740/Aperture_Tag_The_Paint_Gun_Testing_Initiative/) \- Paid Mod and Portal 2 
+
+*[Thinking With Time Machine](https://store.steampowered.com/app/286080/Thinking_with_Time_Machine/)
 
 ## Half-Life: Alyx Mods
 
