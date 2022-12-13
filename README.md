@@ -1,14 +1,15 @@
 # VALVe-GAME-LIST
-Every Valve Game and Their mods
+
+> Every Valve Game and Their mods
 
 
 ## VALVe GAMES
 
-Games made by valve or were previously mods but were bought buy Valve
+> Games made by valve (OR) were previously mods but were bought out buy Valve
 
-* [HALF-LIFE](https://store.steampowered.com/app/70/HalfLife/)
+* [HALF-LIFE](https://store.steampowered.com/app/70/HalfLife/) 
 
-* [TEAM FORTRESS CLASSIC](https://store.steampowered.com/app/20/Team_Fortress_Classic/)
+* [TEAM FORTRESS CLASSIC](https://store.steampowered.com/app/20/Team_Fortress_Classic/) \- 
 
 * [HALF-LIFE: OPPOSING FORCE](https://store.steampowered.com/app/50/HalfLife_Opposing_Force/)
 
@@ -28,13 +29,13 @@ Games made by valve or were previously mods but were bought buy Valve
 
 * [COUNTER STRIKE: SOURCE](https://store.steampowered.com/app/240/CounterStrike_Source/)
 
-* [HALF-LIFE: SOURCE](https://store.steampowered.com/app/280/HalfLife_Source/)
+* [HALF-LIFE: SOURCE](https://store.steampowered.com/app/280/HalfLife_Source/) \- Port Of The Original Half-Life To Source Engine 
 
 * [HALF-LIFE 2](https://store.steampowered.com/app/220/HalfLife_2/)
 
 * [DAY OF DEFEAT: SOURCE](https://store.steampowered.com/app/300/Day_of_Defeat_Source/)
 
-* [HALF-LIFE: LOST COAST](https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/) /- Tech Demo To Showcase Valve's New Source Update
+* [HALF-LIFE: LOST COAST](https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/) \- Tech Demo To Showcase Valve's New Source Engine Update
 
 * [HALF-LIFE DEATH MATCH: SOURCE](https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/)
 
@@ -58,7 +59,7 @@ Games made by valve or were previously mods but were bought buy Valve
 
 * [DOTA 2](https://store.steampowered.com/app/570/Dota_2/)
 
-* [THE LAB](https://store.steampowered.com/app/450390/The_Lab/) /-VR Titles
+* [THE LAB](https://store.steampowered.com/app/450390/The_Lab/) \-VR Title
 
 * [ALIEN SWARM REACTIVE DROP](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/)
 
@@ -68,21 +69,28 @@ Games made by valve or were previously mods but were bought buy Valve
 
 * [DOTA UNDERLORDS](https://store.steampowered.com/app/583950/Artifact/)
 
-* [APERTURE HAND LAB](https://store.steampowered.com/app/868020/Aperture_Hand_Lab/) /- VR Title
+* [APERTURE HAND LAB](https://store.steampowered.com/app/868020/Aperture_Hand_Lab/) \- VR Title
 
-* [HALF-LIFE: ALYX](https://store.steampowered.com/app/546560/HalfLife_Alyx/) /-VR Title
+* [HALF-LIFE: ALYX](https://store.steampowered.com/app/546560/HalfLife_Alyx/) \-VR Title
 
-* [APERTURE DESK JOB](https://store.steampowered.com/app/1902490/Aperture_Desk_Job/) /- Made for Steam deck But Can used on controller
-
-
-## 3RD PARTY GAMES
-
-GUNMAN CHRONICLES https://www.moddb.com/games/gunman-chronicles/downloads/gunman-chronicles-steam-version
-
-CODENAME GORDON Type "steam://install/92" in your browser it will download
-
-GARRY'S MOD https://store.steampowered.com/app/4000/Garrys_Mod/
-
-BLACK MESA https://store.steampowered.com/app/362890/Black_Mesa/
+* [APERTURE DESK JOB](https://store.steampowered.com/app/1902490/Aperture_Desk_Job/) \- Made for Steam Deck But Can Be Played On PC (Controller Only)
 
 
+## NON VALVe GAMES
+> Notable Games 
+
+* [GUNMAN CHRONICLES](https://www.moddb.com/games/gunman-chronicles/downloads/gunman-chronicles-steam-version) \- Standalone Game Made Into a Mod 
+
+* [CODENAME GORDON](https://steamcommunity.com/app/92) - Type "steam://install/92" in your browser it will download (April fools joke on Steam before half life 2 released)
+
+* [GARRY'S MOD aka GMOD](https://store.steampowered.com/app/4000/Garrys_Mod/)
+
+* [BLACK MESA](https://store.steampowered.com/app/362890/Black_Mesa/) \- Remake of The Original Half-Life In The More Updated Source Engine 
+
+* [Portal With RTX](https://store.steampowered.com/app/2012840/Portal_with_RTX/) \- Nvidia's New RTX Look On The Original Portal
+
+* [Narbacular Drop](https://theportalwiki.com/wiki/Narbacular_Drop) \- Game Portal Was Inspired By (Dev Team Was Acquired by Valve To Make Portal)
+
+* [DOOM](https://store.steampowered.com/app/2280/DOOM_1993/) \- Game Which Inspired The Original Half-Life
+
+* [QUAKE](https://store.steampowered.com/app/2310/Quake/) \- Game Which Inspired The Orginal Half-Life
